@@ -18,7 +18,7 @@ spec:
         app: bigatao
     spec:
       containers:
-      - image: brunoandrad/ricky:1.0
+      - image: nginx
         name: nginx
         resources: {}
 status: {}
